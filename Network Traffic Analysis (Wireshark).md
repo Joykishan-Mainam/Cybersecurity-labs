@@ -1,4 +1,4 @@
-# Lab 3 — Network Traffic Analysis (Wireshark)
+#  — Network Traffic Analysis (Wireshark)
 
 ## Objective
 
