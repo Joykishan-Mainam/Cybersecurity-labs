@@ -1,4 +1,4 @@
-# Lab 1 — Network Security & Reconnaissance
+#  Network Security & Reconnaissance
 
 ## Objective
 
