@@ -1,4 +1,4 @@
-# Lab 2 — System Enumeration & Security Testing
+#  System Enumeration & Security Testing
 
 ## Objective
 
